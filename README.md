@@ -1,1 +1,1 @@
-# paying-app
+# reward_RN
